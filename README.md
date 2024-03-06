@@ -33,10 +33,9 @@
 ---
 
 ### :fire: My Stats :
-<div align="center><img src="https://komarev.com/ghpvc/?username=boris-pavel&style=flat-square&color=blue" alt="Profile views"/></div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boris-pavel&layout=compact&theme=light"
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boris-pavel&layout=compact&theme=dark"
 </div>
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=boris-pavel" alt="GitHub Streak" /></a>
+<div>
+  <img src="https://streak-stats.demolab.com?user=boris-pavel&theme=dark" alt="GitHub Streak" />
 </div>
