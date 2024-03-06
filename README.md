@@ -10,15 +10,6 @@
 
 ---
 
-### 📫 Contact:
-
-<div>
-  <a href="mailto:boris.pavel37@gmail.com?subject=Mail from GitHub"><img src="https://github.com/boris-pavel/boris-pavel/assets/128417006/0147910d-4eb7-4237-97dc-88b79e509609" width="50" height="50" /></a> <a href="https://www.instagram.com/boris.pavel">    <img src="https://github.com/boris-pavel/boris-pavel/assets/128417006/501afe55-85c7-4368-95f4-8f02175f44fe" width="47" height="47" /></a>
-  <a href="https://www.linkedin.com/in/boris-pavel"><img src="https://github.com/boris-pavel/boris-pavel/assets/128417006/5841127f-d613-4dcc-b3e4-ff34c42c41ad" width="47" height="47"></a>
-</div>
-
----
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="50" height="50">
