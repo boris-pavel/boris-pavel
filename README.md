@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjYwNWZscDlwcjJxaXptajQ3b3J3cHFvNG1rNWkzcHV6d244Njc4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QHE5gWI0QjqF2/giphy.gif" width="250"/>
 </div>
+ ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjYwNWZscDlwcjJxaXptajQ3b3J3cHFvNG1rNWkzcHV6d244Njc4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QHE5gWI0QjqF2/giphy.gif){: .rounded} 
