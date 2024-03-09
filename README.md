@@ -19,6 +19,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50">
 </div>
 
 ---
