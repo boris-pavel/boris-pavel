@@ -4,7 +4,7 @@
 
 - :telescope: I’m working towards being a Full Stack Web Developer.
 
-- :seedling: Exploring CS50x course.
+- :seedling: Exploring App Academy Open.
 
 - :zap: In my free time, I code some more.
 
