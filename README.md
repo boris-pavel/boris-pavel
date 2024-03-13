@@ -15,12 +15,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg" width="50" height="50">
   
 </div>
 
