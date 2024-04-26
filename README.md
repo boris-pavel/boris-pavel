@@ -4,7 +4,7 @@
 
 - :telescope: I’m working towards being a Full Stack Web Developer.
 
-- :seedling: Exploring App Academy Open.
+- :seedling: Exploring CS50w.
 
 - :zap: In my free time, I code some more.
 
@@ -21,7 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg" width="50" height="50">
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="50" height="50">
 </div>
 
 ---
