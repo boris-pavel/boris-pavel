@@ -7,18 +7,14 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Frameworks :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/blazor/blazor-original.svg" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="50" height="50">
+  
+  
 </div>
 
 ---
