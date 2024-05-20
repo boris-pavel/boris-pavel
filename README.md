@@ -4,9 +4,6 @@
 
 - :telescope: I’m working towards being a Full Stack Web Developer.
 
-- :seedling: Exploring CS50w.
-
-- :zap: In my free time, I code some more.
 
 ---
 
@@ -30,6 +27,4 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boris-pavel&layout=compact&theme=dark"
 </div>
-<div>
-  <img src="https://streak-stats.demolab.com?user=boris-pavel&theme=dark" alt="GitHub Streak" />
-</div>
+
